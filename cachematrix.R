@@ -52,7 +52,7 @@ cacheSolve <- function(x, ...) {
 }
 
 ###############################################################################
-## Sampe testng the impact of cacheSolve for matrix inverse
+## Sample testng the impact of cacheSolve for matrix inverse
 ## Setting up a test matrix 
 ## set.seed(3948)
 ## B <- matrix(rnorm(4000000), nrow=2000, ncol=2000)
